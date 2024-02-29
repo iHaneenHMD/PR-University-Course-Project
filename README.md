@@ -1,3 +1,2 @@
 # Pattern recognition University Course Project
-Decision Tree Classifier
-Support vector machine Classifier 
+I applied Decision Tree Classifier and Support Vector Machine Classifier.
