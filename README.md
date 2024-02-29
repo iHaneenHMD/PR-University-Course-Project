@@ -1,1 +1,1 @@
-# PR-University-Course-Project
+#Pattern recognition University Course Project
